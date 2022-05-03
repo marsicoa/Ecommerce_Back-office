@@ -7,5 +7,6 @@
 Credentials
 -----------
 
-Back-office usr:admin | pwd:1234
-Front       usr:test  | pwd:test
+Back-office user -- usr:admin | pwd:1234
+
+Front user       -- usr:test  | pwd:test
