@@ -1,8 +1,8 @@
 # Ecommerce_Back-office
 
-**npm i** to install modules
+**npm i**  - to install modules
 
-**npm start** to run project (server will run on port 8080)
+**npm start**  - to run project (server will run on port 8080)
 
 Credentials
 -----------
