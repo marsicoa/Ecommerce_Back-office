@@ -1,0 +1,16 @@
+#contenedor-articulos {
+    max-width: 1200px;
+    margin: 60px auto;
+    display: flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    font-family: 'Mukta', sans-serif;
+}
+.articulos {
+    max-width: 30%;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 2px 6px 3px 3px rgba(1, 1, 1, 0.3);
+    font-weight: bold;
+    font-family: 'Mukta', sans-serif;
+}
